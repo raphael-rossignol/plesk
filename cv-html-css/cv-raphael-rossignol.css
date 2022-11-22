@@ -1,0 +1,30 @@
+h1 {color :orange;
+    }
+p {color :orange;}
+h2 {color :orange;}
+h3 {color :orange;}
+ul {color :orange;}
+img {
+    width : 150px;
+    height : 150px;
+}
+    body{
+        background-image : url('Gif/Riffscave-Cherrydon-4.jpg'); 
+        background-size: 100% 100%;
+        background-repeat: no-repeat; 
+}
+
+main {
+    font-size: larger;
+    position:relative;
+    top: 1189px;
+    right: 8px;
+    background-color: rgb(55, 54, 54);
+}
+header {
+    font-size: larger;
+    position: relative;
+    top: 240px;
+    
+}
+
